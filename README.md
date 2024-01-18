@@ -15,6 +15,19 @@ Team Lead
 
 
   
+
+<div align="center">
+
+| Research Interests | Google Scholar Information |
+| --- | --- |
+| - 🔬 Mechatronics | - **📚 Citations:** 1550+ <!-- Replace with your actual citation count --> |
+| - 🧬 Rehabilitation | - **📈 H-Index:** 22 <!-- Replace with your actual H-Index --> |
+| - 🤖 Prosthesis | - **📄 Total Articles:** 100+ <!-- Replace with your actual total articles --> |
+| - 🌐 Grasping | - **🔗 Profile:** [Google Scholar Profile](https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en) |
+
+</div>
+
+
 <h4 align="center">
 
 <!-- display the social media buttons in your README -->
@@ -39,16 +52,27 @@ Team Lead
 
 </h4>
 
+## Contact
+
+<h4 align="center">
+📧irfan.hussain@ku.ac.ae 📞Telephone: 00971505305667 
+</h4>
+
+![Logo](https://engineering.kennesaw.edu/images/robotics-banner.jpg)
+ 
+
 ## Education
-- 2013-2016	Ph.D. in Information Engineering, University of Siena, Siena, Italy
-Specialization: Automatic Control and Robotics
-Dissertation: “Augmenting Human Manipulation abilities through Supernumerary Robotic Limbs”
-- 2011-2012	M.S II Level Specializing Automatica and Control Technologies, Politecnico di Torino, Italy
-Specialization: Automatica and Control
+### Ph.D. in Information Engineering
+📆 Graduation Date: 2013-2016  
+🏫 University of Siena
+📍 Siena, Italy
 
+### M.S II Level Specializing Automatica and Control Technologies
+📆 Graduation Date: 2011-2012
+🏫 Politecnico di Torino
+📍 Italy
 
- ![Logo](https://engineering.kennesaw.edu/images/robotics-banner.jpg)
-
+ 
  
 ##  Skills 🛠 
 <p align="center">
@@ -65,13 +89,7 @@ Specialization: Automatica and Control
 </p>
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+ 
 <!---
 HassanEesaar/HassanEesaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
